@@ -7,7 +7,7 @@ Note on what is in this repository:
 Common Version:
 ReadyOpCommon.py
   Good for use on computers where multiple operators are using the same computer to go to ReadyOp.  This version requires the operator to enter their UserID (eg: SteinbW) into the program every time. Information is stored in the file: PersonalInfomration.JSON
-
+ 
 Personal Version:
 ReadyOpEnter.py
 ReadyOpSettup.py
