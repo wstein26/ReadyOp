@@ -1,21 +1,19 @@
 # ReadyOp
 Used for WSDOT Entering Into ReadyOp 
 Please see the word document for details on installing Python,PyCharm, and use of the automated ReadyOp.
-The word document is optimzied for Windows.
+The word document guide is optimzied for Windows.
 
-Note on what is in this repository:
-Common Version:
+#Versions:
+##Common Version:
 ReadyOpCommon.py
   Good for use on computers where multiple operators are using the same computer to go to ReadyOp.  This version requires the operator to enter their UserID (eg: SteinbW) into the program every time. Information is stored in the file: PersonalInfomration.JSON
  
-Personal Version:
+##Personal Version:
 ReadyOpEnter.py
 ReadyOpSettup.py
   Good for use when there is only one operator using the program. Information is stored in the file: UserInfo.JSON
 
-
-For additional information please see the below links:
-
+#Additional Information
 Python Installation:
 https://www.python.org/downloads/
 
